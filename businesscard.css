@@ -1,0 +1,29 @@
+body {
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card {
+    border: 1px dotted blue;
+    padding: 20px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    background: #ddebf8;
+    border-bottom: 8px solid #d8cefe;
+    font-size: 30px;
+    margin: 0 auto;
+    color: black;
+}
+ 
+
+.image {
+    width: 400px;
+    text-align: center;
+ }
+
+
+ .ive {
+    text-align: center;
+}
